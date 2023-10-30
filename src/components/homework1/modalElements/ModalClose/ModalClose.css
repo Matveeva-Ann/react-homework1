@@ -2,7 +2,6 @@
 .cross {
   margin-left: auto;
   display: block;
-  font-size: 22px;
   cursor: pointer;
   transition: transform 250ms linear;
 }
